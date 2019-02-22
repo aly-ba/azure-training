@@ -1,0 +1,2 @@
+# azure-training
+ressources azure
